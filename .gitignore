@@ -1,0 +1,12 @@
+.ds_store
+desktop.ini
+.*
+!.gitignore
+!.nvmrc
+
+/.*/
+!/.github/
+
+**/working/
+
+**/__pycache__/
